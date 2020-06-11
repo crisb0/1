@@ -17,6 +17,7 @@ Would Like To Have
 
 1. Generic programming
 2. C++ compoments?
-3.
+3. Docker
+4. Multi-thread
 
 ## Functional requirements, benchmarks
