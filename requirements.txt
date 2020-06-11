@@ -1,0 +1,14 @@
+certifi==2019.11.28
+chardet==3.0.4
+dict==2019.4.13
+idna==2.8
+numpy==1.18.2
+pandas==1.0.3
+public==2019.4.13
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.22.0
+six==1.14.0
+urllib3==1.25.7
+values==2019.4.13
+virtualenv==16.7.8
