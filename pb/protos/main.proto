@@ -1,0 +1,16 @@
+
+syntax = "proto3";
+service Main {
+    // Test!
+    rpc HelloWorld(User) returns (String) {}
+}
+
+message User {
+    // User name
+    string name = 1;
+}
+
+message String {
+    // Generic string
+    string value = 1;
+}
